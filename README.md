@@ -16,7 +16,7 @@ This project enables users to chat in real-time with a smooth and responsive UI.
 * ⚡ Fast & Responsive UI
 * 🎯 Clean Component-Based Architecture
 
----
+---   // Real time Commucation
 
 ## 🛠️ Tech Stack
 
